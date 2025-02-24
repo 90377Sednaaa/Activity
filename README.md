@@ -1,1 +1,1 @@
-To use, Import the activity.sql into xampp then you are done :D
+To use, Import the activity.sql into phpmyadmin then you are done :D
